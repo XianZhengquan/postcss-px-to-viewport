@@ -1,0 +1,6 @@
+{
+  "devDependencies": {
+    "object-assign": "^4.1.1",
+    "postcss": "^8.3.5"
+  }
+}
