@@ -1,4 +1,23 @@
 {
+  "name": "postcss-px-to-viewport",
+  "version": "0.0.1",
+  "description": "postcss-px-to-viewport",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/XianZhengquan/postcss-px-to-viewport.git"
+  },
+  "keywords": [
+    "postcss",
+    "to",
+    "vw",
+    "px",
+    "viewport",
+    "postcss-px-to-viewport"
+  ],
+  "author": "yasuo",
+  "license": "ISC",
+  "homepage": "https://github.com/XianZhengquan/postcss-px-to-viewport#readme",
   "devDependencies": {
     "object-assign": "^4.1.1",
     "postcss": "^8.3.5"
