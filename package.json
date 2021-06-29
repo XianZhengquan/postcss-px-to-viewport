@@ -1,5 +1,5 @@
 {
-  "name": "postcss-px-2-vw",
+  "name": "@xianzhengquan/postcss-px-2-vw",
   "version": "0.0.1",
   "description": "postcss-px-2-vw",
   "main": "index.js",
@@ -16,7 +16,7 @@
     "postcss-px-2-vw"
   ],
   "author": "yasuo",
-  "license": "ISC",
+  "license": "MIT",
   "homepage": "https://github.com/XianZhengquan/postcss-px-to-viewport#readme",
   "devDependencies": {
     "object-assign": "^4.1.1",
