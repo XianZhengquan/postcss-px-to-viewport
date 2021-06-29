@@ -1,7 +1,7 @@
 {
-  "name": "postcss-px-to-viewport",
+  "name": "postcss-px-2-viewport",
   "version": "0.0.1",
-  "description": "postcss-px-to-viewport",
+  "description": "postcss-px-2-viewport",
   "main": "index.js",
   "repository": {
     "type": "git",
