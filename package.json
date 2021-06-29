@@ -1,7 +1,7 @@
 {
-  "name": "postcss-px-2-viewport",
+  "name": "postcss-px-2-vw",
   "version": "0.0.1",
-  "description": "postcss-px-2-viewport",
+  "description": "postcss-px-2-vw",
   "main": "index.js",
   "repository": {
     "type": "git",
@@ -13,7 +13,7 @@
     "vw",
     "px",
     "viewport",
-    "postcss-px-to-viewport"
+    "postcss-px-2-vw"
   ],
   "author": "yasuo",
   "license": "ISC",
